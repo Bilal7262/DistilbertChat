@@ -1,0 +1,7 @@
+pandas
+transformers
+sentence-transformers
+scikit-learn
+numpy
+openai
+
